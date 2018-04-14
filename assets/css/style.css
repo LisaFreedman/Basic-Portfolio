@@ -5,19 +5,8 @@ body {
   width: 100vw;
   height: 100vh;
   background-image: url("../images/dust_scratches.png");
+  position: relative;
 }
-
-/* Master container */
-
-/* .container {
-  margin: 0 auto;
-  width: 100vw;
-  height: 100vh;
-  background-image: url("../images/dust_scratches.png");
-} */
-
-/* Header */
-
 .head {
   background-color: #ffffff;
   width: 100vw;
@@ -96,17 +85,6 @@ hr {
   padding-right: 20px;
 }
 
-.bio {
-  /* clear: both; */
-  /* width: 75%; */
-  /* padding-left: 25%; */
-}
-
-.p1 {
-  /* float: left; */
-  widows: 60%;
-}
-/*  */
 .foot {
   background-color: #666666;
   position: relative;
@@ -138,7 +116,7 @@ hr {
   top: 140px;
   float: left;
 }
-.sidebar{
+.connect {
   float: right;
   border: solid;
   width: 25%;
@@ -151,4 +129,14 @@ hr {
   left: -200px;
   top: 140px;
   float: left;
+}
+.sidebar{
+  float: right;
+  border: solid;
+  width: 25%;
+  background-color: white;
+  margin: 100px 150px 100px 80px;
+  position: relative;
+right: -148px;
+top: -379px;
 }
