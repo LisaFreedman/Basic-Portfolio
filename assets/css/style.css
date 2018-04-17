@@ -100,10 +100,17 @@ hr {
 
 .portImg1 {
   float: left;
-  /* padding: 20px; */
+
+}
+.portImg2 {
+  float: left;
+}
+.portImg3 {
+  float: left;
+ */
 }
 .portext {
-  width: 200px;
+  width: 300px;
   background-color: teal;
   color: white;
   padding: 12px 0;
@@ -111,10 +118,11 @@ hr {
   margin: 0;
 }
 .portext1 {
-  position: relative;
-  left: -200px;
-  top: 140px;
-  float: left;
+  portext1 {
+    position: relative;
+    left: -222;
+    top: 185;
+    float: left;
 }
 .connect {
   float: right;
@@ -125,10 +133,11 @@ hr {
 }
 
 .portext2 {
-  position: relative;
-  left: -200px;
-  top: 140px;
-  float: left;
+  .portImg2 {
+    position: relative;
+    left: 200;
+    top: -212;
+    float: left;
 }
 .sidebar{
   float: right;
